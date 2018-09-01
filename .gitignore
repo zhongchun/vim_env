@@ -1,0 +1,10 @@
+*.[oa]
+*~
+*.pyc
+*.swp
+*.swn
+*.swo
+*.bin
+*.config
+.DS_Store
+.netrwhist
