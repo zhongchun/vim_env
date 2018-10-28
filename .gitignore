@@ -1,10 +1,10 @@
-*.[oa]
-*~
-*.pyc
-*.swp
-*.swn
-*.swo
-*.bin
-*.config
+# *.[oa]
+# *~
+# *.pyc
+# *.swp
+# *.swn
+# *.swo
+# *.bin
+# *.config
+# .netrwhist
 .DS_Store
-.netrwhist
