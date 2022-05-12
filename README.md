@@ -1,7 +1,7 @@
 env
 ===
 
-my vim environment
+My vim environment.
 
 
 vim/shell/screen config
