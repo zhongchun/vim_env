@@ -7,4 +7,4 @@ My vim environment.
 vim/shell/screen config
 
 
-run `prepare` for the first time.
+run `./prepare` for the first time.
