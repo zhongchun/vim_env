@@ -1,7 +1,7 @@
-Mac Env
+Vim Envs
 ===
 
-My vim environment.
+My vim environments.
 
 
 vim/shell/screen config
